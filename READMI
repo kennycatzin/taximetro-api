@@ -1,0 +1,4 @@
+// para iniciar server
+    nodemon dist/index
+// Compilar
+    tsc
